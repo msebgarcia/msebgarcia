@@ -7,6 +7,7 @@
 
 ### Welcome to my profile!
 I'm an (advanced) electronic engineering student from Argentina, currently working on my thesis degree. We're developing a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we're using a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made which will then be sent to Earth. 
+
 Although my thesis is oriented to digital design using VHDL and HLS, and my main knowledge is about that. I'm also interested in other programming areas, like Game Development and Machine Learning.
 
 ## Rapidfire 
@@ -29,4 +30,13 @@ ___
 
 ## Language and Tools 
 
-<img style="margin: 10px" src="python-original.svg" alt="Python" height="40" /> <img style="margin: 10px" src="cplusplus-original.svg" alt="cpp" height="40" />  <img style="margin: 10px" src="matlab.svg" alt="MATLAB" height="40" /> <img style="margin: 10px" src="simulink.png" alt="Simulink" height="40" /> <img style="margin: 10px" src="Pascal.png" alt="Pascal" height="40" /> <img style="margin: 10px" src="verilog.svg" alt="Verilog" height="40" />       <img style="margin: 10px" src="vhdl.png" alt="VHDL" height="40" /> <img style="margin: 10px" src="linux-original.svg" alt="Linux" height="40" />   <img style="margin: 10px" src="latex.png" alt="LaTeX" height="40" />
+<center>
+<img style="margin: 10px" src="python-original.svg" alt="Python" height="40" />
+<img style="margin: 10px" src="cplusplus-original.svg" alt="cpp" height="40" /> 
+<img style="margin: 10px" src="matlab.svg" alt="MATLAB" height="40" />
+<img style="margin: 10px" src="simulink.png" alt="Simulink" height="40" />
+<img style="margin: 10px" src="Pascal.png" alt="Pascal" height="40" /> <img style="margin: 10px" src="verilog.svg" alt="Verilog" height="40" />
+<img style="margin: 10px" src="vhdl.png" alt="VHDL" height="40" />
+<img style="margin: 10px" src="linux-original.svg" alt="Linux" height="40" />
+<img style="margin: 10px" src="latex.png" alt="LaTeX" height="40" />
+</center>
