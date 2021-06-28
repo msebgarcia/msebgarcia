@@ -10,17 +10,20 @@
 
 <br/>
 
+___
+
 ### Welcome to my profile!
 I'm an (advanced) electronic engineering student from Argentina, currently working on my thesis degree. We're developing a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we're using a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made which will then be sent to Earth. 
 
-Although my thesis is oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested programming areas, like Game Development and Machine Learning.
+Although my thesis is oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested in programming areas, like Game Development and Machine Learning.
 
 
 <br/>
 
 ## Rapidfire 
 
-<table><tr><td valign="top" width="40%"> 
+<table style = "border:0"><tr><td valign="top" width="40%"> 
+
 <div align="center"> <img src="hello.gif" align="center" style="width: 100%" /> </div>   </td>
 
 <td valign="top" width="60%">
@@ -34,9 +37,9 @@ Although my thesis is oriented to digital design using VHDL, and my main knowled
 - 🌑 Dark mode lover 
 </td></tr></table> 
 
-___
-
 <br/>
+
+___
 
 ## Language and Tools 
 
