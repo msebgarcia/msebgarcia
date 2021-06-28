@@ -20,12 +20,6 @@ Although my thesis is oriented to digital design using VHDL, and my main knowled
 
 ## Rapidfire 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <table><tr><td valign="top" width="40%"> 
 <div align="center"> <img src="hello.gif" align="center" style="width: 100%" /> </div>   </td>
 
@@ -47,5 +41,5 @@ ___
 ## Language and Tools 
 
 <div align="center">
-<img style="margin: 15px" src="python-original.svg" alt="Python" height="40" /> <img style="margin: 15px" src="cplusplus-original.svg" alt="cpp" height="40" />  <img style="margin: 15px" src="matlab.svg" alt="MATLAB" height="40" /> <img style="margin: 15px" src="simulink.png" alt="Simulink" height="40" /> <img style="margin: 15px" src="Pascal.png" alt="Pascal" height="40" /> <img style="margin: 15px" src="verilog.svg" alt="Verilog" height="40" /> <img style="margin: 15px" src="vhdl.png" alt="VHDL" height="40" /> <img style="margin: 15px" src="linux-original.svg" alt="Linux" height="40" /> <img style="margin: 15px" src="latex.png" alt="LaTeX" height="40" />
+<img style="margin: 15px" src="python-original.svg" alt="Python" height="40" hspace="10" /> <img style="margin: 15px" src="cplusplus-original.svg" alt="cpp" height="40" hspace="10" />  <img style="margin: 15px" src="matlab.svg" alt="MATLAB" height="40" hspace="10" /> <img style="margin: 15px" src="simulink.png" alt="Simulink" height="40" hspace="10" /> <img style="margin: 15px" src="Pascal.png" alt="Pascal" height="40" hspace="10" /> <img style="margin: 15px" src="verilog.svg" alt="Verilog" height="40" hspace="10" /> <img style="margin: 15px" src="vhdl.png" alt="VHDL" height="40" hspace="10" /> <img style="margin: 15px" src="linux-original.svg" alt="Linux" height="40" hspace="10" /> <img style="margin: 15px" src="latex.png" alt="LaTeX" height="40" hspace="10" />
 </div>
