@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mathias Garcia!      
+## __Hey 👋, I'm Mathias Garcia!__   
 
 <a href="https://github.com/msebgarcia" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a>
@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  </a>
 <a href="mailto:mathiasgarcia.gs@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/MAIL-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" /> </a> 
-___
+
 
 <br/>
 
@@ -15,11 +15,16 @@ I'm an (advanced) electronic engineering student from Argentina, currently worki
 
 Although my thesis is oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested programming areas, like Game Development and Machine Learning.
 
-___
 
 <br/>
 
 ## Rapidfire 
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <table><tr><td valign="top" width="40%"> 
 <div align="center"> <img src="hello.gif" align="center" style="width: 100%" /> </div>   </td>
@@ -41,6 +46,6 @@ ___
 
 ## Language and Tools 
 
-<center>
+<div align="center">
 <img style="margin: 15px" src="python-original.svg" alt="Python" height="40" /> <img style="margin: 15px" src="cplusplus-original.svg" alt="cpp" height="40" />  <img style="margin: 15px" src="matlab.svg" alt="MATLAB" height="40" /> <img style="margin: 15px" src="simulink.png" alt="Simulink" height="40" /> <img style="margin: 15px" src="Pascal.png" alt="Pascal" height="40" /> <img style="margin: 15px" src="verilog.svg" alt="Verilog" height="40" /> <img style="margin: 15px" src="vhdl.png" alt="VHDL" height="40" /> <img style="margin: 15px" src="linux-original.svg" alt="Linux" height="40" /> <img style="margin: 15px" src="latex.png" alt="LaTeX" height="40" />
-</center>
+</div>
