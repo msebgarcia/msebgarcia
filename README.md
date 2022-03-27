@@ -13,9 +13,9 @@
 ___
 
 ### Welcome to my profile!
-I'm an (advanced) electronic engineering student from Argentina, currently working on my thesis degree. We're developing a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we're using a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made which will then be sent to Earth. 
+I'm an electronic engineering from Argentina. My thesis degree consisted in the development of a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we used a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made which will then be sent to Earth. 
 
-Although my thesis is oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested in programming areas, like Game Development and Machine Learning.
+Although my thesis was oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested in programming areas, like Game Development and Machine Learning.
 
 
 <br/>
