@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a>
 <a href="https://www.linkedin.com/in/mathiasgarciag" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  </a>
-<a href="mailto:mathiasgarcia.gs@gmail.com" target="_blank">
+<a href="mailto:msebgarcia@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/MAIL-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" /> </a> 
 
 
@@ -13,9 +13,9 @@
 ___
 
 ### Welcome to my profile!
-I'm an electronic engineering from Argentina. My thesis degree consisted in the development of a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we used a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made which will then be sent to Earth. 
+I'm an electronic engineering from Argentina. My thesis degree consisted in the development of a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we used a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made and sent to Earth. 
 
-Although my thesis was oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested in programming areas, like Game Development and Machine Learning.
+Although my thesis was oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested in software areas, like Game Development and Machine Learning.
 
 
 <br/>
@@ -24,17 +24,18 @@ Although my thesis was oriented to digital design using VHDL, and my main knowle
 
 <table style = "border:0"><tr><td valign="top" width="40%"> 
 
-<div align="center"> <img src="hello.gif" align="center" style="width: 100%" /> </div>   </td>
+<div align="center"> <img src="hello.gif" align="center" style="width: 80%" /> </div>   </td>
 
 <td valign="top" width="60%">
 
-- 🔭 I’m currently working on a low cost radiation meter, using VHDL and HLS.
+- ⚡ I’m currently working as Digital Design Engineer using Verilog, C++ and UVM.
 
-- ⚡ I want to get a deeper knowledge of digital design but using Verilog.
+- 🌱 At the present, I'm learning web development.
 
-- 🌱 At the present, I'm learning C++ with intention of continuing with OpenGL.
-- 🤖 I'm (also) interested in Machine Learning and High-Performance Computing 
-- 🌑 Dark mode lover 
+- 🤖 I'm also interested in Machine Learning and High-Performance Computing.
+
+- 🌑 Dark mode lover.
+
 </td></tr></table> 
 
 <br/>
