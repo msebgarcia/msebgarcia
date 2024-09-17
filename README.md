@@ -13,34 +13,9 @@
 ___
 
 ### Welcome to my profile!
-I'm an electronic engineering from Argentina. My thesis degree consisted in the development of a low cost radiation meter using commercially CMOS sensors for aerospace application. More specifically, we used a MT9M001 sensor and a (FPGA) Xilinx Zynq-7000 to make a real time algorithm that detects size and intensity of the particles passing through the sensor. Once they are detected, a histogram is made and sent to Earth. 
-
-Although my thesis was oriented to digital design using VHDL, and my main knowledge is about that and all related to electronics. I'm also interested in software areas, like Game Development and Machine Learning.
-
+I'm an electronic engineering from Argentina working in digital design.
 
 <br/>
-
-## Rapidfire 
-
-<table style = "border:0"><tr><td valign="top" width="40%"> 
-
-<div align="center"> <img src="hello.gif" align="center" style="width: 80%" /> </div>   </td>
-
-<td valign="top" width="60%">
-
-- ⚡ I’m currently working as Digital Design Engineer using Verilog, C++ and UVM.
-
-- 🌱 At the present, I'm learning web development.
-
-- 🤖 I'm also interested in Machine Learning and High-Performance Computing.
-
-- 🌑 Dark mode lover.
-
-</td></tr></table> 
-
-<br/>
-
-___
 
 ## Language and Tools 
 
